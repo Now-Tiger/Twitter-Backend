@@ -11,3 +11,9 @@ A simple Twitter backend project.
 - TypeScript
 - Express.js
 - Prisma ORM + SQLite
+
+---
+
+## GET - all users and their Tweets
+
+![image](./public/images/getAllUsers.png)
